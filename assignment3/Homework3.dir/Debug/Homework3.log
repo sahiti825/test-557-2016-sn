@@ -1,0 +1,29 @@
+﻿  GLSphere.cpp
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(340): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(358): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(412): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(484): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(556): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(628): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(723): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(780): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(837): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(894): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(951): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1171): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1402): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1521): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1950): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1957): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1958): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1959): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1964): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1965): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1966): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1970): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1971): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1972): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1976): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1977): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp(1978): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Homework3.vcxproj -> C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment3\Debug\Homework3.exe
