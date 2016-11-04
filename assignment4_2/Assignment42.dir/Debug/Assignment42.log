@@ -1,0 +1,5 @@
+﻿  main_Assignment42.cpp
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment4_2\main_Assignment42.cpp(81): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment4_2\main_Assignment42.cpp(92): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment4_2\main_Assignment42.cpp(95): warning C4305: '=': truncation from 'double' to 'float'
+  Assignment42.vcxproj -> C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment4_2\Debug\Assignment42.exe

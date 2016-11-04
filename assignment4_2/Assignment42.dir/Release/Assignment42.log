@@ -1,0 +1,9 @@
+﻿  Texture.cpp
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp(636): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp(660): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp(720): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment42.vcxproj -> C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\assignment4_2\Release\Assignment42.exe
