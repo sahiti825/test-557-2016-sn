@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\HCI557Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\CoordSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Shaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Plane3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLAppearance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gl_common\GLObjectObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\HCI557Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\controls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\CoordSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Shaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Plane3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\HCI557Datatypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLAppearanceBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLAppearance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\gl_common\GLObjects3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gl_common\GLObjectObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{195EC411-4D2C-3353-9E71-3DFBC5BE86AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4E39CCE2-AC18-3BB0-B260-8CE52D6E5E99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  main_simple_texture.cpp
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(233): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(234): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(270): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(279): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(282): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(458): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(502): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\main_simple_texture.cpp(529): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HCI557_Simple_Texture.vcxproj -> C:\Users\Sahiti Nallagonda\Desktop\ME557\ss\Final Project\Debug\HCI557_Simple_Texture.exe
